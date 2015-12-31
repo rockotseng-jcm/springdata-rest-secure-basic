@@ -1,0 +1,3 @@
+= Example of Spring Data REST with HTTP Basic Authentication
+
+This project is a simple REST application with a customer domain and secured by HTTP basic authentication. Which is implemented by Spring Boot, Spring Data Rest, Spring Security, and Lombok. And tests are written in two way, RestTemplate and Rest Assured.
